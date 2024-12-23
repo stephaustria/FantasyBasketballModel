@@ -1,3 +1,3 @@
 # Fantasy Basketball Machine Learning Model
-# Overview
-## Model Approach
+## Overview
+### Model Approach
