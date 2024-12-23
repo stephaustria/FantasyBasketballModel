@@ -1,6 +1,6 @@
 # Fantasy Basketball Machine Learning Model
 ## Overview
-Creating a model that will rank the top fantasy basketball players based off their projected 2025 season stats.
+Creating a model that will predict and rank the top fantasy basketball players based off their projected 2025 season stats.
 ### Scoring Breakdown
 FGM: +2
 
